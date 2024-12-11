@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nhasik Mohammed</h1>
 
-<h3 align="center">   A passionate web developer from india</h3><br>
+<h3 align="center">   A passionate IMS Engineer from india</h3><br>
 
 <div align="center">
  ⚡ I’m currently working on **InfraStructure Management service**
